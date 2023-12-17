@@ -981,17 +981,4 @@ body {
     padding-top: 20px;
 }
 
-/* Nav Second */
-.nav-second{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 20em;
-}
-.nav-second div{
-    width: 60%;
-    background-color: white;
-    padding: 15px;
-    padding: 20px;
-    height: 20em;
-}
+
