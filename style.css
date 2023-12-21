@@ -17,9 +17,11 @@ body {
     overflow-x: hidden;
 }
 
+
 .main {
     background-color: white;
 }
+
 
 .nav {
     display: flex;
@@ -981,5 +983,3 @@ body {
     bottom: -60px;
     padding-top: 20px;
 }
-
-
