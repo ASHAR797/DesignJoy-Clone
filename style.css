@@ -14,6 +14,7 @@ body {
     width: 100%;
     height: 100%;
     background-image: url(img-folder/611b2d3c1a84f270060c9ec1_Texture.png), linear-gradient(#000, #000);
+    overflow-x: hidden;
 }
 
 .main {
