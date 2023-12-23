@@ -1,4 +1,7 @@
 @media (max-width:479px) {
+    html{
+        overflow-x: hidden;
+    }
     .first-container-first-div img {
         top: 0px;
         width: 75px;
