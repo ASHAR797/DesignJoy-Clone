@@ -141,7 +141,7 @@ body {
     min-height: 400px;
     min-width: 400px;
     margin-right: 20px;
-    
+    transition: all .4s;
 }
 
 .second-container-first-div img:hover {
