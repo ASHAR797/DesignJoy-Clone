@@ -678,7 +678,7 @@ body {
 
 .sec-7-third-container-first-div {
     display: flex;
-    background: linear-gradient(#DAE3ED, #DEE7F0, #E2EAF4, #DEE7F0 #e1eaf4);
+    background: linear-gradient(#DAE3ED, #DEE7F0, #E2EAF4, #DEE7F0, #e1eaf4);
     justify-content: space-between;
 }
 
