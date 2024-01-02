@@ -39,7 +39,7 @@
                     <h1>A web dev agency with a twist</h1>
                     <p>On-demand subscriptions for everyone. Pause or cancel anytime.</p>
                     <div>
-                        <button id="btn">See Plans</button>
+                        <button id="btn" onclick="scrollToPlans()">See Plans</button>
                     </div>
                     <div>
                         <span>Designs you'll</span>
@@ -502,6 +502,13 @@
                 duration: 800
             }
         );
+    </script>
+    <script>
+        // Javascript function to scroll to the "Memberships levels" section
+    function scrollToPlans() {
+        var element = document.getElementById('plans');
+        element.scrollIntoView({ behavior: 'smooth' });
+    }
     </script>
 </body>
 
